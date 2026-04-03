@@ -1,16 +1,21 @@
+# coding python
 #------------CLASS 1----------------------#
 # print("Hello Aditya singh","You are a coder")
-x =100
-print(x)
-x=487
-print(x)
-# print(88+99)
+# x =100.2
+# print(type(x))
+# x=487
+# print(x)
+#print('bol na re chote')
+a =-11
+print(a)
+print(88+199) 
 # name = "Aditya"
 # a =26
 # print(name  +" Age   "+  str(a))
 # print(type(name))
 # print(type(a))
 # a=None
+
 # print(type(a))
 # a=100
 # b=400

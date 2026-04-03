@@ -1,7 +1,14 @@
 Aditya singh
+<<<<<<< HEAD
 Aditya branch m changes hua hai done 
 coder gang 7224073947
 Changes hua haiiiii
 Aditya king
 [lpdihgujks;lw'
 pdf;djskaklsdpfojhdnskml
+=======
+Aditya singh git hub practice 25 march 2.58pm
+7224072937 31032000
+yes done hua ajj ka task
+morning task
+>>>>>>> 634dd931de91d7cbccdbda778e1515210c049613
