@@ -1,5 +1,9 @@
 #------------CLASS 1----------------------#
 # print("Hello Aditya singh","You are a coder")
+x =100
+print(x)
+x=487
+print(x)
 # print(88+99)
 # name = "Aditya"
 # a =26
