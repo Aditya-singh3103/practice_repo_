@@ -6,16 +6,19 @@
 # x=487
 # print(x)
 #print('bol na re chote')
-a =-11
-print(a)
-print(88+199) 
+# a =-11
+# print(a)
+# print(88+199) 
+# print("bol na re chote") 
+# a = int(input("ent 1 num      "))
+# print(type(a))
 # name = "Aditya"
 # a =26
 # print(name  +" Age   "+  str(a))
 # print(type(name))
 # print(type(a))
 # a=None
-
+ 
 # print(type(a))
 # a=100
 # b=400
@@ -142,7 +145,20 @@ print(88+199)
 #     print("Adult")
 #     print("Vote")
 
-
+# a=1
+# if(a>10):
+#     print("yes re chote")
+    
+# else:
+  #  print("nhi re chote")
+  
+  
+# for i in range(100,200):
+#     print(i)
+   
+  
+  
+  
 # In python there is no concept of {  } block for multiple lines of code 
 # here we use proper spacing which is known as INDUCTATION in python for multi line of code 
 # This is very important concept in python 
