@@ -156,8 +156,13 @@
 # for i in range(100,200):
 #     print(i)
    
-  
-  
+# a=22
+# print(id(a))
+
+
+str = "Aditya"
+
+print(str * 11113)
   
 # In python there is no concept of {  } block for multiple lines of code 
 # here we use proper spacing which is known as INDUCTATION in python for multi line of code 
